@@ -238,10 +238,29 @@ nav a:hover {
     background-color: white;
 }
 
+.panoramic-image {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.panoramic {
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    max-width: 100%;
+    transition: transform 0.3s;
+}
+
+.panoramic:hover {
+    transform: scale(1.02);
+}
+
+/* Screenshot gallery styles kept for reference */
 .screenshot-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 2rem;
+    display: none; /* Hide the old gallery */
 }
 
 .screenshot {

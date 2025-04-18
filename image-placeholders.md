@@ -9,33 +9,22 @@ Before publishing the website, you'll need to create and add the following image
    - Recommended size: 600px × 1200px
    - This image appears in the hero section of the homepage
 
-2. **screenshot-1.png**
-   - Home screen screenshot of the Power Words app
-   - Recommended size: 375px × 812px (iPhone X dimensions)
-   - Shows the main interface with affirmation tiles
+2. **panoramic-app-image.png**
+   - A wide panoramic image showcasing multiple app screens together
+   - Recommended size: 1200px × 500px
+   - Shows multiple app screens side by side in one cohesive image
+   - This replaces the need for individual screenshots
 
-3. **screenshot-2.png**
-   - Affirmation playback screen
-   - Recommended size: 375px × 812px
-   - Shows the full-screen playback interface with animated text
-
-4. **screenshot-3.png**
-   - Star celebration screen
-   - Recommended size: 375px × 812px
-   - Shows the celebration animation when stars are earned
-
-5. **screenshot-4.png**
-   - Milestone progress screen
-   - Recommended size: 375px × 812px
-   - Shows the user's progress toward milestone achievements
+3. **app-store-badge.svg**
+   - App Store download badge
+   - Already created
 
 ## Notes
 
 - App Store badge (app-store-badge.svg) has already been created
-- All screenshots should be from your actual app running on a device or simulator
-- You can use tools like Photoshop, Figma, or online mockup generators to create the app preview image
-- For best results, make sure all images have the same aspect ratio within each category (preview vs. screenshots)
-- iPhone screenshots typically work best for app websites
+- The panoramic image should showcase all key screens of the app in a cohesive, visually appealing layout
+- You can use tools like Photoshop, Figma, or online mockup generators to create both the app preview and panoramic images
+- For best results, ensure the panoramic image has a consistent visual style
 
 ## Additional Image Resources
 

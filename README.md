@@ -27,17 +27,14 @@ Before deploying the website, you need to add the following images to the `image
 
 1. `app-preview.png` - A mockup of the app on a device
 2. `app-store-badge.svg` - The App Store download badge
-3. `screenshot-1.png` - Home screen screenshot
-4. `screenshot-2.png` - Affirmation playback screenshot
-5. `screenshot-3.png` - Star celebration screenshot
-6. `screenshot-4.png` - Milestone progress screenshot
+3. `panoramic-app-image.png` - A wide panoramic image showcasing multiple app screens together
 
 ## Customization
 
 To customize the website:
 
 1. Update the color scheme in `styles.css` by modifying the CSS variables at the top of the file
-2. Replace placeholder images with actual app screenshots
+2. Replace placeholder images with actual app mockups and screenshots
 3. Update the App Store link in `index.html` when your app is published
 4. Modify content in both HTML files to match your app's specific features and branding
 
