@@ -1,3 +1,0 @@
-# DailyAffirmationsPowerUp
-
-test readme file
