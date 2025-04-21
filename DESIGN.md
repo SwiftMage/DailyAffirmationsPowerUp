@@ -61,7 +61,7 @@ The website follows a modern, clean design approach with:
 - [x] CSS variable-based theming
 - [x] Mobile-friendly navigation
 - [x] Optimized image display
-- [x] Privacy policy page
+- [x] Privacy policy page (stating no data collection)
 
 ### Future Enhancements
 - [ ] Add dark mode support
