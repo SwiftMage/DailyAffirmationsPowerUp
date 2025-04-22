@@ -1,4 +1,4 @@
-# Image Placeholders for Power Words Website
+# Image Placeholders for Daily Affirmations Power Up! Website
 
 Before publishing the website, you'll need to create and add the following images to the `images/` directory:
 

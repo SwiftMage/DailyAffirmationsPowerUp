@@ -1,11 +1,11 @@
-# Power Words Website Design Document
+# Daily Affirmations Power Up! Website Design Document
 
 ## Architecture
 
-The Power Words website uses a simple static HTML/CSS architecture with the following structure:
+The Daily Affirmations Power Up! website uses a simple static HTML/CSS architecture with the following structure:
 
 ### Main Components
-- Static HTML pages (index.html, privacy.html, terms.html)
+- Static HTML pages (index.html, privacy.html)
 - CSS styling (styles.css)
 - Image assets (in the images directory)
 
@@ -63,6 +63,7 @@ The website follows a modern, clean design approach with:
 - [x] Optimized image display
 - [x] Privacy policy page (updated to reflect anonymous data collection via RevenueCat)
 - [x] Terms of Use page (generic)
+- [x] Terms of Use link updated to Apple's Standard EULA
 
 ### Future Enhancements
 - [ ] Add dark mode support

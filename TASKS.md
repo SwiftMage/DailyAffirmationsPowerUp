@@ -1,4 +1,4 @@
-# Website Improvement Tasks
+# Daily Affirmations Power Up! Website Improvement Tasks
 
 ## Completed Tasks
 
@@ -11,6 +11,9 @@
 - [x] Update privacy.html to disclose RevenueCat usage & anonymous data collection
 - [x] Add Terms of Use page (terms.html)
 - [x] Link Terms of Use page in footers
+- [x] Replace custom Terms of Use page with link to Apple EULA
+- [x] Update contact email address across all pages
+- [x] Rename app from "Power Words" to "Daily Affirmations Power Up!" across all files
 
 ## In Progress Tasks
 
@@ -35,6 +38,12 @@
 - ✅ DESIGN.md - Created to document site architecture
 - ✅ privacy.html - Updated content to disclose RevenueCat usage
 - ✅ terms.html - Created with standard terms
+- ✅ index.html - Updated screenshot section and footer links
+- ✅ privacy.html - Updated footer link
+- ✅ README.md - Updated image requirements and app name
+- ✅ DESIGN.md - Created to document site architecture and updated app name
+- ✅ TASKS.md - Updated task list and app name
+- ✅ image-placeholders.md - Updated app name
 - 📝 images/panoramic-app-image.png - Needs to be created by designer
 
 ## Implementation Details
@@ -49,5 +58,7 @@ The website has been updated to use a single panoramic image instead of multiple
 4. Updated documentation to reflect the new image requirements
 5. Updated privacy.html to clearly state that no personal user data is collected or stored.
 6. Updated privacy.html again to disclose the use of RevenueCat for subscription management and the collection of anonymous purchase history for analytics and app functionality.
-7. Created terms.html with generic terms of use content.
-8. Added links to terms.html in the footers of index.html and privacy.html. 
+7. Replaced custom terms.html page with a link to Apple's standard EULA in footers.
+8. Added links to terms.html in the footers of index.html and privacy.html.
+9. Updated contact email address to appspire@icloud.com in index.html, privacy.html, and terms.html.
+10. Performed a global find-and-replace for "Power Words" -> "Daily Affirmations Power Up!" in all HTML and Markdown files. 

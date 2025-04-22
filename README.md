@@ -1,6 +1,6 @@
-# Power Words App Website
+# Daily Affirmations Power Up! App Website
 
-This repository contains the website for the Power Words app, a positive self-talk application for children.
+This repository contains the website for the Daily Affirmations Power Up! app, a positive self-talk application for children.
 
 ## Website Structure
 
