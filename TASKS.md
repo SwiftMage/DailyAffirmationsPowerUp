@@ -8,6 +8,8 @@
 - [x] Update README.md to reflect new image requirements
 - [x] Create DESIGN.md file to document website architecture
 - [x] Update privacy.html with policy stating no data collection
+- [x] Add Terms of Use page (terms.html)
+- [x] Link Terms of Use page in footers
 
 ## In Progress Tasks
 
@@ -31,6 +33,7 @@
 - ✅ README.md - Updated image requirements
 - ✅ DESIGN.md - Created to document site architecture
 - ✅ privacy.html - Updated content to state no data collection
+- ✅ terms.html - Created with standard terms
 - 📝 images/panoramic-app-image.png - Needs to be created by designer
 
 ## Implementation Details
@@ -43,4 +46,6 @@ The website has been updated to use a single panoramic image instead of multiple
 2. Added CSS styles for the new panoramic image with hover effects
 3. Kept previous screenshot styles commented out for reference
 4. Updated documentation to reflect the new image requirements
-5. Updated privacy.html to clearly state that no personal user data is collected or stored. 
+5. Updated privacy.html to clearly state that no personal user data is collected or stored.
+6. Created terms.html with generic terms of use content.
+7. Added links to terms.html in the footers of index.html and privacy.html. 

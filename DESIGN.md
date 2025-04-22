@@ -5,7 +5,7 @@
 The Power Words website uses a simple static HTML/CSS architecture with the following structure:
 
 ### Main Components
-- Static HTML pages (index.html, privacy.html)
+- Static HTML pages (index.html, privacy.html, terms.html)
 - CSS styling (styles.css)
 - Image assets (in the images directory)
 
@@ -62,6 +62,7 @@ The website follows a modern, clean design approach with:
 - [x] Mobile-friendly navigation
 - [x] Optimized image display
 - [x] Privacy policy page (stating no data collection)
+- [x] Terms of Use page
 
 ### Future Enhancements
 - [ ] Add dark mode support
