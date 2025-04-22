@@ -8,6 +8,7 @@
 - [x] Update README.md to reflect new image requirements
 - [x] Create DESIGN.md file to document website architecture
 - [x] Update privacy.html with policy stating no data collection
+- [x] Update privacy.html to disclose RevenueCat usage & anonymous data collection
 - [x] Add Terms of Use page (terms.html)
 - [x] Link Terms of Use page in footers
 
@@ -32,7 +33,7 @@
 - ✅ image-placeholders.md - Updated to reflect new image requirements
 - ✅ README.md - Updated image requirements
 - ✅ DESIGN.md - Created to document site architecture
-- ✅ privacy.html - Updated content to state no data collection
+- ✅ privacy.html - Updated content to disclose RevenueCat usage
 - ✅ terms.html - Created with standard terms
 - 📝 images/panoramic-app-image.png - Needs to be created by designer
 
@@ -47,5 +48,6 @@ The website has been updated to use a single panoramic image instead of multiple
 3. Kept previous screenshot styles commented out for reference
 4. Updated documentation to reflect the new image requirements
 5. Updated privacy.html to clearly state that no personal user data is collected or stored.
-6. Created terms.html with generic terms of use content.
-7. Added links to terms.html in the footers of index.html and privacy.html. 
+6. Updated privacy.html again to disclose the use of RevenueCat for subscription management and the collection of anonymous purchase history for analytics and app functionality.
+7. Created terms.html with generic terms of use content.
+8. Added links to terms.html in the footers of index.html and privacy.html. 
